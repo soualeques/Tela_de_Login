@@ -3,5 +3,5 @@
 
 <div>
 segue abaixo um print de como ficou:
-<img href="../Tela_Login/imagens/tela_login_print.png">
+<img src="https://github.com/soualeques/Tela_de_Login/blob/main/imagens/tela_login_print.png">
 </div>
