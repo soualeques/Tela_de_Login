@@ -72,7 +72,7 @@ color: green;
 font-size: 12px;
 }
 
-.login-box form a 
+.login-box form a#link
 {
 position: relative;
 display: inline-block;
@@ -87,7 +87,7 @@ margin-top: 40px;
 letter-spacing: 4px;
 }
 
-.login-box a:hover
+.login-box a#link:hover
 {
 background: green;
 color: #fff;
@@ -98,13 +98,13 @@ box-shadow: 0 0 5px green,
             0 0 100px green;
 }
 
-.login-box a span
+.login-box a#link span
 {
 position: absolute;
 display: block;
 }
 
-.login-box a span:nth-child(1)
+.login-box a#link span:nth-child(1)
 {
 top: 0;
 left: -100%;
@@ -124,7 +124,7 @@ animation: btn-anim1 1s linear infinite;
 }
 }
 
-.login-box a span:nth-child(2)
+.login-box a#link span:nth-child(2)
 {
 top: -100%;
 right: 0;
@@ -145,7 +145,7 @@ animation-delay: .25s
     }
 }
 
-.login-box a span:nth-child(3)
+.login-box a#link span:nth-child(3)
 {
 bottom: 0;
 right: -100%;
@@ -166,7 +166,7 @@ animation-delay: .5s
     }
 }
 
-.login-box a span:nth-child(4)
+.login-box a#link span:nth-child(4)
 {
 bottom: -100%;
 left: 0;
