@@ -186,3 +186,7 @@ animation-delay: .75s
         bottom: 100%;
     }
 }
+p{
+    color: #fff;
+    text-align: center;
+}
