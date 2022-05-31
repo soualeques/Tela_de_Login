@@ -3,9 +3,13 @@
 
 >the site was created just to develop some skills, I didn't intend for >it to have features, it's just aesthetic, possibly in the future i will >put authentication, registration, among other features
 
-#### VIDEO DEMONSTRATION
+#### IMAGES:
 <div>
-    <video scr="https://github.com/soualeques/Tela_de_Login/blob/main/videos/tela_login.mp4"></video>
+    <img src="https://github.com/soualeques/Tela_de_Login/blob/main/imagens/cadastro.png" alt="foto da tela de cadastro" widgth=400px height=400px>
+    <hr>
+    <img src="https://github.com/soualeques/Tela_de_Login/blob/main/imagens/login.png" alt="foto da tela de login"widgth=400px height=400px>
+    <hr>
+    <img src="https://github.com/soualeques/Tela_de_Login/blob/main/imagens/recuperacao.png" alt="foto da tela de recuperação" widgth=400px height=400px>
 </div>
 
 ### TECHNOLOGIES USED:
@@ -21,4 +25,4 @@
 </table>
 
 ### WEBSITE AVAILABLE AT:
-* <a src="https://soualeques.github.io/Tela_de_Login/">Tela de Login by SOUALEQUES</a>
+* https://soualeques.github.io/Tela_de_Login/
